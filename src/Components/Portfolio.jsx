@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "School Website",
     description:
-      "Created a website for my school, Polythecnic Braulio Paulino, to help students find information about the school and its programs.",
+      "Created a website for my school, Polytechnic Braulio Paulino, to help students find information about the school and its programs.",
     url: "https://www.politecnicobrauliopaulino.edu.do",
   },
   {
