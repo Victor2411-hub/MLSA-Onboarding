@@ -30,7 +30,7 @@ const siteProps = {
   email: "victorpbpcontacto@gmail.com",
   gitHub: "Victor2411-hub",
   instagram: "iam._victorad/",
-  linkedIn: "}v%C3%ADctor-ariel-de-le%C3%B3n-hern%C3%A1ndez-796399201/",
+  linkedIn: "v%C3%ADctor-ariel-de-le%C3%B3n-hern%C3%A1ndez-796399201/",
   medium: "",
   twitter: "",
   youTube: "",
